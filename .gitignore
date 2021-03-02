@@ -1,0 +1,5 @@
+/.idea/
+/vendor/
+
+thumbs.db
+.DS_Store
